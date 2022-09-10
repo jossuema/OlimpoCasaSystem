@@ -1,0 +1,4 @@
+N. Factura;ID;Codigo producto;Cedula;Fecha;Cantidad;Descripcion;Precio Unitario;IVA;Descuento;Subtotal;Total
+0000000001;78998384782;0000000001;0706209905;23/11;2;Primera compra;2.99;0.0;0.0;0.0;5.98
+0756787687;00000000001;3467829812;0706209905;22/10;1;Primera compra;5.99;0.0;0.0;0.0;5.99
+9000000000;9327330000;0000000001;3245435465;12/10;2;Hola mundo;3.0;3.0;3.0;6.0;3.0

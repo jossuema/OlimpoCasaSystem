@@ -210,7 +210,7 @@ public class frmPrincipal extends javax.swing.JFrame {
     private void formWindowActivated(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowActivated
         String path=Global.getPath();
         //Icono de la aplicación
-        ImageIcon icon = new ImageIcon(path+ "\\Recursos\\olimpopng.png");
+        ImageIcon icon = new ImageIcon(path+ "\\Recursos\\aplicacionlogo.png");
         setIconImage(icon.getImage());  
         setExtendedState(this.getExtendedState() | frmPrincipal.MAXIMIZED_BOTH); //maximizar
         //agregar todos los paneles creados
